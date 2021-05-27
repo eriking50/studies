@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "as",
+      "description": "sa",
+      "id": 1
+    },
+    {
+      "title": "oi",
+      "description": "asdf",
+      "id": 2
+    },
+    {
+      "title": "Olha Essa Stream",
+      "description": "sugoiiiiiiiiiii desu né",
+      "id": 3
+    },
+    {
+      "title": "Stream Nova",
+      "description": "dos cria de raça",
+      "id": 4
+    },
+    {
+      "title": "Essa é excelente",
+      "description": "só vem",
+      "userId": "110006508907957711406",
+      "id": 6
+    }
+  ]
+}
